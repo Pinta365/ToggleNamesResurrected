@@ -2,6 +2,11 @@
 
 `ToggleNames Resurrected` is a modernized Retail/Midnight-compatible continuation of the original [ToggleNames](https://www.curseforge.com/wow/addons/togglenames) addon by **Olafski**.
 
+## Download
+
+* [Wago Addons](https://addons.wago.io/addons/togglenames-resurrected)
+* [CurseForge](https://www.curseforge.com/wow/addons/togglenames-resurrected)
+
 ## Credits
 
 - **Olafski** — original ToggleNames addon (v1–v9, 2010–2016). The core idea, CVar names, and option categories all come from their work.
