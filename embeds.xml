@@ -1,0 +1,13 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+
+    <Include file="src\config.lua"/>
+    <Include file="src\state.lua"/>
+    <Include file="src\utils.lua"/>
+    <Include file="src\options.lua"/>
+    <Include file="src\commands.lua"/>
+    <Include file="src\cvar.lua"/>
+    <Include file="src\core.lua"/>
+    <Include file="src\bootstrap.lua"/>
+    <Include file="ToggleNamesResurrected.lua"/>
+
+</Ui>
