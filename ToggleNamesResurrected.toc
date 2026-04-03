@@ -1,9 +1,12 @@
-## Interface: 120000
-## Title: ToggleNames Resurrected
+## Interface: 120001
+## Name: ToggleNames Resurrected
+## Title: |cff45D388ToggleNames Resurrected|r
 ## Notes: Resurrection of the classic ToggleNames addon, updated for Midnight compatibility. It toggles character guild and title visibility based on context.
 ## Version: 0.0.1
 ## Author: Pinta365
 ## SavedVariables: ToggleNames
+## X-Curse-Project-ID: 1503650
+## X-Wago-ID: b6XeQoKp
 ## IconTexture: Interface\AddOns\ToggleNamesResurrected\Textures\pinta
 ## Category: User Interface
 ## Category-deDE: Benutzerinterface
