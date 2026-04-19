@@ -1,4 +1,4 @@
-## Interface: 120001
+## Interface: 120001, 120005
 ## Name: ToggleNames Resurrected
 ## Title: |cff45D388ToggleNames Resurrected|r
 ## Notes: Resurrection of the classic ToggleNames addon, updated for Midnight compatibility. It toggles character guild and title visibility based on context.
